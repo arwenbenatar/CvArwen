@@ -1,0 +1,146 @@
+{
+  "basics": {
+    "name": "Arwen Benatar",
+    "label": "Alternante en Professions Immobilières",
+    "image": "/photo.jpeg",
+    "email": "benatar.arwen@gmail.com",
+    "phone": "+33 7 84 43 03 92",
+    "url": "",
+    "summary": "Actuellement à la recherche d’un poste en alternance pour un BTS Professions Immobilières. Dynamique, rigoureuse et dotée d’un bon relationnel, je suis motivée à mettre mes compétences au service d'une entreprise pour me professionnaliser.",
+    "theme": "default",
+    "location": {
+      "address": "",
+      "postalCode": "28410",
+      "city": "Abondant",
+      "countryCode": "FR",
+      "region": "Centre-Val de Loire"
+    },
+    "profiles": [ 
+      {
+        "network": "LinkedIn",
+        "username": "arwen-benatar",
+        "url": "https://www.linkedin.com/in/arwen-benatar-35707529a/"
+      } ]
+  },
+  "work": [
+    {
+      "name": "Ding Fring",
+      "position": "Vendeuse Polyvalente",
+      "location_type": "On site",
+      "location": "Vernouillet, France",
+      "startDate": "2025-03-01",
+      "endDate": null,
+      "summary": "Participation active à la mise en rayon, vente de vêtements, encaissement et accueil client.",
+      "responsibilities": [
+        "Déballage de marchandises",
+        "Mise en rayon des articles",
+        "Vente de vêtements et conseil client",
+        "Encaissement et tenue de caisse"
+      ]
+    },
+    {
+      "name": "Leclerc",
+      "position": "Hôtesse de Caisse (Travail Estival)",
+      "location_type": "On site",
+      "location": "Dreux, France",
+      "startDate": "2024-06-01",
+      "endDate": "2024-08-31",
+      "summary": "Accueil client, gestion des encaissements et participation à la mise en rayon.",
+      "responsibilities": [
+        "Gestion des encaissements (espèces, CB, chèques)",
+        "Vérification des prix et résolution de litiges",
+        "Mise en rayon"
+      ]
+    },
+    {
+      "name": "Mairie d'Abondant",
+      "position": "Présidente du Conseil Municipal des Jeunes",
+      "location_type": "On site",
+      "location": "Abondant, France",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "summary": "Organisation d’événements municipaux, livraison de colis aux seniors et participation à des réunions avec les élus.",
+      "responsibilities": [
+        "Organisation d'évènements pour la ville",
+        "Participation aux réunions avec la mairie",
+        "Livraison des colis de Noël pour les seniors"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Université d'Orléans",
+      "url": "",
+      "area": "Licence SV - PPPE",
+      "studyType": "Licence",
+      "startDate": "2023-09-01",
+      "endDate": "2024",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Lycée Rotrou Dreux",
+      "url": "",
+      "area": "Baccalauréat Général (Options SVT & Physique)",
+      "studyType": "Baccalauréat",
+      "startDate": "2020-09-01",
+      "endDate": "2023-06-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Collège Charles de Gaulle",
+      "url": "",
+      "area": "Brevet des collèges",
+      "studyType": "Diplôme national du brevet",
+      "startDate": "2016-09-01",
+      "endDate": "2020-06-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "certificates": [],
+  "skills": [
+    {
+      "name": "Relation client",
+      "level": "Avancé",
+      "keywords": ["Accueil", "Écoute", "Service"]
+    },
+    {
+      "name": "Organisation",
+      "level": "Avancé",
+      "keywords": ["Gestion", "Planification"]
+    },
+    {
+      "name": "Communication",
+      "level": "Intermédiaire",
+      "keywords": ["Travail en équipe", "Animation de réunions"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Français",
+      "fluency": "Langue maternelle"
+    },
+    {
+      "language": "Anglais",
+      "fluency": "Intermédiaire"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Immobilier",
+      "keywords": ["Vente", "Gestion locative"]
+    },
+    {
+      "name": "Événementiel",
+      "keywords": ["Organisation", "Décoration"]
+    }
+  ],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "notes": "Recherche une alternance en BTS Professions Immobilières. Rythme : 2 jours à l’école (lundi/mardi), 3 jours en entreprise. Permis B – véhiculée."
+  }
+}
