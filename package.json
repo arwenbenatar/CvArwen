@@ -1,6 +1,7 @@
 {
   "name": "cvarwen-2",
   "type": "module",
+  "packageManager": "pnpm@10.8.0"
   "version": "0.0.1",
   "scripts": {
     "dev": "astro dev",
@@ -24,3 +25,4 @@
     "prettier-plugin-astro": "^0.14.0"
   }
 }
+
